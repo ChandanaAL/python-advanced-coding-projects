@@ -83,13 +83,3 @@ window.mainloop()
 
 
 # In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
